@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart Drink Dispenser</string>
+    <string name="bullet1">\u2022 kevoo </string>
+    <string name="bullet2">u2022 soda</string>
+    <string-array name="water_type">
+        <item>Kilimanjaro</item>
+        <item>Uhai</item>
+        <item>Sayona</item>
+        <item>Hill water</item>
+    </string-array>
+</resources>
